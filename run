@@ -1,0 +1,3 @@
+clear
+javac bookreader/Driver.java
+java bookreader/Driver /Users/aditya/Desktop/Scaler/LLD/tictactoe/bookreader/data.csv
